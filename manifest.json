@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,  
+  "name": "BreKit",
+  "version": "0.1",
+  "description": "baifendian recommendation engine kit",
+  "browser_action": {
+    "default_icon": "R/R24.ico",
+    "default_popup": "popup.html"
+  } 
+}
